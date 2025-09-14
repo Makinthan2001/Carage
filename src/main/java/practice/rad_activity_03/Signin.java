@@ -43,7 +43,7 @@ public class Signin extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 36)); // NOI18N
-        jLabel1.setText("Weerathunga Motors");
+        jLabel1.setText("Madhan Motors");
 
         jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         jLabel3.setText("Username");
@@ -103,7 +103,7 @@ public class Signin extends javax.swing.JFrame {
                 .addContainerGap(16, Short.MAX_VALUE))
         );
 
-        jLabel5.setText("© 2025 Garage Management System. Developed by CST 243-3. All rights reserved.");
+        jLabel5.setText("© 2025 Garage Management System. Developed by MADHAN. All rights reserved.");
 
         jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/img01.jpg"))); // NOI18N
         jLabel7.setText("jLabel7");

@@ -74,7 +74,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Segoe UI" size="36" style="1"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Weerathunga Motors"/>
+        <Property name="text" type="java.lang.String" value="Madhan Motors"/>
       </Properties>
     </Component>
     <Container class="javax.swing.JPanel" name="jPanel1">
@@ -176,7 +176,7 @@
     </Container>
     <Component class="javax.swing.JLabel" name="jLabel5">
       <Properties>
-        <Property name="text" type="java.lang.String" value="&#xa9; 2025 Garage Management System. Developed by CST 243-3. All rights reserved."/>
+        <Property name="text" type="java.lang.String" value="&#xa9; 2025 Garage Management System. Developed by MADHAN. All rights reserved."/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel7">
